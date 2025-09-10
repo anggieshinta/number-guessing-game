@@ -1,9 +1,9 @@
 # number-guessing-game
 A simple CLI-based Number Guessing Game built with Python.  
 The computer randomly selects a number between 1 and 100, and the player has to guess it within limited attempts based on the selected difficulty level.
+
 ## Project URL
 https://github.com/anggieshinta/number-guessing-game
-
 ## Features
 - Difficulty levels: Easy (10 chances), Medium (5 chances), Hard (3 chances)
 - Feedback for each guess (higher or lower)
@@ -25,8 +25,10 @@ Please select the difficulty level:
 Enter your choice: 2
 Great! You have selected the Medium difficulty level.
 Let's start the game!
+
 Enter your guess: 50
 Incorrect! The number is less than 50.
+
 Enter your guess: 25
 Incorrect! The number is greater than 25.
 Enter your guess: 30
